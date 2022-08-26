@@ -1,2 +1,4 @@
-# Lucas-Gusmao
-Config files for my GitHub profile.
+## Olá! Eu sou o LucasGusmão
+- 📘 Hoje estudo programação na Uniesp
+- 👨‍🎓 Gosto de Java, Javascript e Python
+
