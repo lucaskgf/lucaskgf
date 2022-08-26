@@ -2,6 +2,14 @@
 - 📘 Hoje estudo programação na Uniesp
 - 👨‍🎓 Gosto de Java, Javascript e Python
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Lucas+Gusmão;I'm+18+years+old;I'm+from+João+Pessoa,+PB;I+study+systems+for+internet+at+Uniesp;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+
+
 <div align="center">
   <a href="https://github.com/lucaskgf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskgf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -33,5 +41,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucaskgf}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dark&section=footer"/>
