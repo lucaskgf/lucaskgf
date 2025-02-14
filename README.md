@@ -1,6 +1,4 @@
-## Olá! Eu sou o LucasGusmão
-- 📘 Hoje estudo programação na Uniesp
-- 👨‍🎓 Front-End...
+## Olá! Eu sou o Lucas
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000)
 
