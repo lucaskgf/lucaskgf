@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>Olá, eu sou o Lucas Gusmão! 👋</h2>
-  <p><i>Desenvolvedor & Estudante de Sistemas para Internet na Uniesp / João Pessoa, PB</i></p>
+  <p><i>Desenvolvedor / João Pessoa, PB</i></p>
 </div>
 
 <br>
