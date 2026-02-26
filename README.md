@@ -45,7 +45,10 @@
   </a>
   <a href="https://instagram.com/lucasgusmaooooo" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank">
-  </a> 
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-gusmao-632b3a1b8" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </div>
 
 <br>
@@ -57,3 +60,14 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&section=footer&height=150"/>
+
+<br>
+
+<div align="center">
+  <h3>🚀 Projetos em Destaque</h3>
+  
+  <a href="https://github.com/lucaskgf/weathercli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaskgf&repo=weathercli&theme=dark" alt="Projeto WeatherCLI" />
+  </a>
+</div>
+
