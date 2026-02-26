@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200" />
-
 <div align="center">
   <h2>Olá, eu sou o Lucas Gusmão! 👋</h2>
   <a href="https://github.com/lucaskgf">
@@ -55,7 +53,7 @@
   <a href="mailto:lucaskauegf@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
   </a>
-  <a href="https://instagram.com/lucasgusmaooooo" target="_blank">
+  <a href="https://instagram.com/lucaskgusmao" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/lucas-gusmao-632b3a1b8" target="_blank">
@@ -70,7 +68,3 @@
     <img alt="Lucas-pic" height="150" style="border-radius:20px;" src="https://i.picasion.com/pic92/0a9f42f99f7170ad35702e9d492178e2.gif" />
   </a>
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&section=footer&height=150"/>
