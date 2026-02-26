@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200" />
 
 <div align="center">
   <h2>Olá, eu sou o Lucas Gusmão! 👋</h2>
@@ -9,10 +9,10 @@
 
 <div align="center">
   <a href="https://github.com/lucaskgf">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucaskgf&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lucaskgf&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/lucaskgf">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskgf&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskgf&layout=compact&theme=dark" alt="Top Langs" />
   </a>
 </div>
 
