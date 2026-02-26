@@ -8,11 +8,13 @@
 <br>
 
 <div align="center">
+  <!-- Stats Modernizados -->
   <a href="https://github.com/lucaskgf">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucaskgf&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaskgf&theme=github_dark" alt="GitHub Stats" />
   </a>
+  <br>
   <a href="https://github.com/lucaskgf">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskgf&layout=compact&theme=dark" alt="Top Langs" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaskgf&theme=github_dark" alt="Top Langs" />
   </a>
 </div>
 
@@ -25,6 +27,13 @@
   <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
+
+<!-- A famosa cobrinha comendo os commits verde -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucaskgf/lucaskgf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br>
