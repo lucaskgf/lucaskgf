@@ -9,10 +9,12 @@
 
 <div align="center">
   <h3>🚀 Projetos em Destaque</h3>
+  
   <a href="https://github.com/lucaskgf/weathercli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucaskgf&repo=weathercli&theme=dark" alt="Projeto WeatherCLI" />
+    <img src="https://img.shields.io/badge/%E2%9B%85_Projeto_WeatherCLI-Clique_aqui_para_ver-000000?style=for-the-badge&logo=github&logoColor=white" alt="Projeto WeatherCLI" />
   </a>
 </div>
+
 
 <br>
 
