@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor, localizado em João Pessoa, PB. M
       <a href="https://www.linkedin.com/in/lucas-gusmao-632b3a1b8" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
       </a>
-      <a href="mailto:lucaskauegf@gmail.com">
+      <a href="mailto:lucaskgusmao@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
       </a>
       <a href="https://instagram.com/lucaskgusmao" target="_blank">
