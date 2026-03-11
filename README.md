@@ -64,9 +64,4 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor, localizado em João Pessoa, PB. M
   <img src="https://raw.githubusercontent.com/lucaskgf/lucaskgf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://picasion.com/">
-    <img alt="Lucas-pic" height="80" style="border-radius:20px; opacity: 0.8;" src="https://i.picasion.com/pic92/0a9f42f99f7170ad35702e9d492178e2.gif" />
-  </a>
-</p>
 
