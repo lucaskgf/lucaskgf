@@ -1,10 +1,10 @@
 # Olá, eu sou o Lucas Gusmão! 👋
 
 <a href="https://github.com/lucaskgf">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=33B5E5&vCenter=true&width=530&lines=Desenvolvedor+Back-end+Python;Estudante+de+Sistemas+para+Internet;Apaixonado+por+tecnologia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=33B5E5&vCenter=true&width=530&lines=Desenvolvedor+Júnior+com+foco+em+Python;Formado+em+Sistemas+para+Internet;Automação+e+Integração+com+APIs" alt="Typing SVG" />
 </a>
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor, localizado em João Pessoa, PB. Meu foco principal está na arquitetura de software e no desenvolvimento de soluções Back-end.
+Bem-vindo ao meu perfil! Sou desenvolvedor júnior, localizado em João Pessoa, PB, com foco em Python, automação, integração com APIs e desenvolvimento de soluções back-end.
 
 <br>
 
@@ -17,9 +17,6 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor, localizado em João Pessoa, PB. M
       </a>
       <a href="mailto:lucaskgusmao@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
-      </a>
-      <a href="https://instagram.com/lucaskgusmao" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank">
       </a>
     </td>
     <td width="50%">
@@ -55,4 +52,3 @@ Python • JavaScript • TypeScript • Automação • APIs
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaskgf&theme=github_dark" alt="Top Langs" width="48%" />
   </a>
 </p>
-
