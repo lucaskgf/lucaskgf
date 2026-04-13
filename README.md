@@ -45,6 +45,6 @@ Python • JavaScript • TypeScript • Automação • APIs
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaskgf&theme=github_dark" alt="GitHub Stats" width="44%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaskgf&theme=github_dark" alt="Top Langs" width="44%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaskgf&theme=github_dark" alt="GitHub Stats" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaskgf&theme=github_dark" alt="Top Langs" width="38%" />
 </p>
