@@ -1,7 +1,7 @@
 # Olá, eu sou o Lucas Gusmão! 👋
 
 <a href="https://github.com/lucaskgf">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=33B5E5&vCenter=true&width=530&lines=Desenvolvedor+Júnior+com+foco+em+Python;Formado+em+Sistemas+para+Internet;Automação+e+Integração+com+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=33B5E5&vCenter=true&width=530&lines=Desenvolvedor+do+Discord+com+foco+em+Python;Formado+em+Sistemas+para+Internet;Automação+e+Integração+com+APIs" alt="Typing SVG" />
 </a>
 
 Sou desenvolvedor, com foco em Python, automação, integração com APIs e desenvolvimento de soluções back-end.
