@@ -1,13 +1,9 @@
 # Olá, eu sou o Lucas Gusmão! 👋
-
 <a href="https://github.com/lucaskgf">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=33B5E5&vCenter=true&width=530&lines=Desenvolvedor+do+Discord+com+foco+em+Python;Formado+em+Sistemas+para+Internet;Automação+e+Integração+com+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=33B5E5&vCenter=true&width=530&lines=Desenvolvedor+Python+Pleno;Formado+em+Sistemas+para+Internet;Automação+e+Integração+com+APIs" alt="Typing SVG" />
 </a>
-
-Sou desenvolvedor, com foco em Python, automação, integração com APIs e desenvolvimento de soluções back-end.
-
+Sou desenvolvedor Python pleno, com foco em automação, integração com APIs e desenvolvimento de soluções back-end.
 <br>
-
 <table align="center" width="100%">
   <tr>
     <td width="50%">
@@ -27,25 +23,17 @@ Sou desenvolvedor, com foco em Python, automação, integração com APIs e dese
     </td>
   </tr>
 </table>
-
 ---
-
 ### 💻 Linguagens e Tecnologias
-
 <p align="left">
   <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
 </p>
-
 Python • JavaScript • TypeScript • Automação • APIs
-
 ---
-
 ### 📈 Estatísticas do GitHub
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaskgf&theme=github_dark" alt="GitHub Stats" width="60%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaskgf&theme=github_dark" alt="Top Langs" width="29%" />
 </p>
-
